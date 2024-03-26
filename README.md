@@ -1,6 +1,6 @@
 #MonteCarloMinimizationParallel
 
-THe Java source files are in the "src" directory and the compiled class files are in the "bin" directory.
+THe Java source files should be saved in a "src" directory and the compiled class files saved in a "bin" directory.
 
 To execute the code using the provided makefile, follow these steps:
 
